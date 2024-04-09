@@ -1,5 +1,9 @@
 # Changelog
 
+## 5.4.0
+
+* Add Typescript types
+
 ## 5.3.0
 
 * Apply https://github.com/aackerman/circular-dependency-plugin/pull/49
