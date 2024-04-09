@@ -37,5 +37,8 @@
     "testMatch": [
       "**/?(*.)(spec|test).js?(x)"
     ]
+  },
+  "dependencies": {
+    "tarjan-graph": "^2.0.0"
   }
 }
