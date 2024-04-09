@@ -1,5 +1,9 @@
 # Changelog
 
+## 5.3.0
+
+* Apply https://github.com/aackerman/circular-dependency-plugin/pull/49
+
 ## 5.2.2
 
 * Fixed an issue where typescript modules were identified as having a circular dependency on themselves in Webpack 5
