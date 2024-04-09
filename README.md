@@ -1,5 +1,7 @@
 ## Circular Dependency Plugin
 
+__This is a fork of the original [circular-dependency-plugin](https://github.com/aackerman/circular-dependency-plugin) that uses Tarjan's algorithm to detect circular dependencies, applies [this PR](https://github.com/aackerman/circular-dependency-plugin/pull/49) so it not slow.__
+
 Detect modules with circular dependencies when bundling with webpack.
 
 Circular dependencies are often a necessity in complex software, the presence of a circular dependency doesn't always imply a bug, but in the case where you believe a bug exists, this module may help find it.
